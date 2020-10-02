@@ -2,5 +2,5 @@
 
 *Background image [credit](https://unsplash.com/photos/PWxsExxrf5g)
 
-**PhD Candidate in Genomics Data Science**
+**PhD Candidate in Genomics Data Science**\
 SFI Centre for Research Training in Genomics Data Science NUIG
